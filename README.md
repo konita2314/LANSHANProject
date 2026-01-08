@@ -1,4 +1,4 @@
-# LANAHSNProject 火兰山中学
+# LANSHANProject 火兰山中学
 
 一款解密游戏。玩家通过模拟在火兰山中学度过学习生活来推进游戏进度。
 
