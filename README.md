@@ -14,6 +14,8 @@
 
 * Documents 剧情文档
 
+* LearningToUse 教程
+
 * Resources 资源文件
 
 * Cache 缓存用文件
